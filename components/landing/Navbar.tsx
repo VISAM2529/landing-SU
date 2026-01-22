@@ -39,7 +39,7 @@ export default function Navbar() {
               Reviews
             </Link>
             <a
-              href="https://play.google.com/store"
+              href="https://play.google.com/store/apps/details?id=com.sameerdelxn.scoreup"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-2.5 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg font-medium hover:shadow-lg hover:scale-105 transition-all"
@@ -98,7 +98,7 @@ export default function Navbar() {
               Reviews
             </Link>
             <a
-              href="https://play.google.com/store"
+              href="https://play.google.com/store/apps/details?id=com.sameerdelxn.scoreup"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white text-center rounded-lg font-medium"

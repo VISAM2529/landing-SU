@@ -50,7 +50,7 @@ export default function DownloadCTA() {
             {/* Download Buttons */}
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <a
-                href="https://play.google.com/store"
+                href="https://play.google.com/store/apps/details?id=com.sameerdelxn.scoreup"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-6 py-4 bg-white text-gray-900 rounded-xl font-semibold hover:shadow-2xl hover:scale-105 transition-all"

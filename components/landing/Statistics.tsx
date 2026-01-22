@@ -102,7 +102,7 @@ export default function Statistics() {
             Download our app today and get access to comprehensive study materials, mock tests, and performance analytics.
           </p>
           <a
-            href="https://play.google.com/store"
+            href="https://play.google.com/store/apps/details?id=com.sameerdelxn.scoreup"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-4 bg-white text-blue-600 rounded-xl font-semibold text-lg hover:shadow-2xl hover:scale-105 transition-all"

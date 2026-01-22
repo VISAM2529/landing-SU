@@ -162,7 +162,7 @@ export default function Footer() {
               <p className="text-sm text-gray-400">Available on Google Play Store</p>
             </div>
             <a
-              href="https://play.google.com/store"
+              href="https://play.google.com/store/apps/details?id=com.sameerdelxn.scoreup"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-6 py-3 bg-white text-gray-900 rounded-lg font-semibold hover:bg-gray-100 transition-colors"

@@ -36,7 +36,7 @@ export default function Hero() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://play.google.com/store"
+                href="https://play.google.com/store/apps/details?id=com.sameerdelxn.scoreup"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center justify-center px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-xl font-semibold text-lg shadow-lg hover:shadow-2xl hover:scale-105 transition-all duration-300"

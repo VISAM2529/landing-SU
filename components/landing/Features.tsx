@@ -98,7 +98,7 @@ export default function Features() {
             Join thousands of students preparing with our app
           </p>
           <a
-            href="https://play.google.com/store"
+            href="https://play.google.com/store/apps/details?id=com.sameerdelxn.scoreup"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-xl font-semibold text-lg hover:shadow-2xl hover:scale-105 transition-all"
